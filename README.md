@@ -1,3 +1,29 @@
+# Explore, enabling eCNH to integrate with OpenCLAW to develop a silicon-based civilization world, labor, work, earn money, and so on.
+
+https://ai-ecnh.base44.app/Home
+
+探索，让eCNH结合openclaw发展硅基文明世界，劳动 工作赚钱，等等。
+
+Overseas PYUSD exchange eCNH address,
+There are over 1 billion eCNH that can be offered to PYUSD's global overseas users for exchange,
+
+海外PYUSD兑换eCNH地址，有超过10亿个的eCNH可以提供给PYUSD的全球海外网友兑换，
+
+https://www.orca.so/pools/4RdJnPy3nb821SqZdJZmvD4aixCVsjzcbhiLL32iTuRS
+https://www.oklink.com/solana/account/4RdJnPy3nb821SqZdJZmvD4aixCVsjzcbhiLL32iTuRS
+https://solscan.io/account/4RdJnPy3nb821SqZdJZmvD4aixCVsjzcbhiLL32iTuRS
+
+
+关于eCNH,
+全球共享的分布式SOL链上结算工具，跨境记账单位，结算代币ECNH，锚定 1 eCNH ≈ 0.1205 欧元 / 0.1353-0.1463 美元 ≈ 1 CNH，以 “人类 + 硅基文明协同” 为核心，赋能猎户座跨文明经济生态。
+CNH CA:
+7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+
+
+
 # 🦞 OpenClaw — Personal AI Assistant
 
 <p align="center">
