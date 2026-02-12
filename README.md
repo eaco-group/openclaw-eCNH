@@ -23,6 +23,12 @@ https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 https://www.oklink.com/zh-hans/solana/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
+https://www.orca.so/pools?tokens=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://app.uniswap.org/explore/tokens/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://pancakeswap.finance/swap?chain=sol&outputCurrency=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
 
 
 # 🦞 OpenClaw — Personal AI Assistant
