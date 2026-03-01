@@ -16,7 +16,7 @@ https://solscan.io/account/4RdJnPy3nb821SqZdJZmvD4aixCVsjzcbhiLL32iTuRS
 
 关于eCNH,
 全球共享的分布式SOL链上结算工具，跨境记账单位，结算代币ECNH，锚定 1 eCNH ≈ 0.1205 欧元 / 0.1353-0.1463 美元 ≈ 1 CNH，以 “人类 + 硅基文明协同” 为核心，赋能猎户座跨文明经济生态。
-CNH CA:
+eCNH CA:
 7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
